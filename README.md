@@ -1,2 +1,2 @@
 # hello-world
-trial transint repository
+trial transint non-redondant db repository
